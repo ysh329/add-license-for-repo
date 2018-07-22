@@ -1,11 +1,11 @@
 # add-license-for-repo
-Add license content for each file in repository recursively
+Add license content for each file in repository recursively.
 
 ## Usage
 
 ### Step1 Prepare `<LICENSE>` file in current directory named `LICENSE`
 
-### Step2 Edic Parameters
+### Step2 Edit Parameters
 
 ```shell
 $ vim add_license_recursively.py
