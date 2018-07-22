@@ -3,7 +3,9 @@ Add license content for each file in repository recursively.
 
 ## Usage
 
-### Step1 Prepare `<LICENSE>` file in current directory named `LICENSE`
+### Step1 Prepare License
+
+Prepare `<LICENSE>` file in current directory named `LICENSE`.
 
 ### Step2 Edit Parameters
 
