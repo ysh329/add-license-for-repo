@@ -19,3 +19,8 @@ if __name__ == "__main__":
     suffix_dict = {".prototxt":"#", ".c":"//", ".h":"//", ".py":"#"}
 ```
 
+### Step3 Execute
+
+```shell
+$ python ./add_license_recursively.py
+```
